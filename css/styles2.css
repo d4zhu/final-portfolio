@@ -1,0 +1,115 @@
+#title {
+    background-color:rgb(26, 26, 26);
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.Section2 {
+    background-color:rgb(26, 26, 26);
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.navbar {
+    padding: 0 0 8rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-family:'Six Caps';
+}
+
+.navbar-item {
+    padding: 0 10px;
+    font-family: 'Open Sans';
+}
+
+.nav-link {
+    font-family: 'Open Sans';
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family:'Six Caps';
+    color: azure;
+    text-align: center;
+}
+
+h2 {
+    font-family:'Six Caps';
+    color: azure;
+    text-align: left;
+    font-size: 6rem;
+    padding: 0 0 1rem 0;
+}
+
+h3{
+    font-family: 'Open Sans';
+    color:azure;
+    text-align:left;
+    font-size: 1.25rem;
+}
+
+h4 {
+    font-family: 'Six Caps';
+    color: azure;
+    text-align: center;
+}
+
+p {
+    font-family: 'Open Sans';
+    color: azure;
+    text-align: justify;
+    font-size: 1.25rem; 
+}
+
+#text {
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 6rem;
+    margin: auto; 
+}
+
+#image {
+    padding-left: 13rem;
+    padding-top: 6rem;
+}
+
+#projects {
+    background-color: rgb(26, 26, 26);
+    min-height: 100vh;
+    min-width: 100vw;
+    padding-top: 18rem;
+}
+
+.Section1 {
+    background-color:rgb(35, 35, 35);
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.btn {
+    font-family:'Open Sans';
+    font-weight: bold;
+}
+
+#socials {
+    background-color:rgb(26, 26, 26);
+    min-height: 50vh;
+    min-width: 50vw;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 30px 20px;
+    color:azure;
+    text-align: center;
+    cursor: pointer;
+}
+
+.social-icon:hover {
+    color: gray;
+}
